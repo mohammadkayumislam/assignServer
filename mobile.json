@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Mobile Collection",
+    "img": "https://i0.wp.com/www.mobilebd.co/wp-content/uploads/2021/09/Xiaomi-Redmi-10-Image--510x510.png",
+    "about": "All brands mobile will get here",
+    "category": [
+      {
+        "name": "Galaxy Z Fold4 5G*",
+        "img": "https://fairelectronics.com.bd/media/catalog/product/cache/01cd8b6e84de5ba656ee8bb28f2212b1/f/o/fold4_back_black-12-2.png",
+        "about": "Sumsung G88 Powerful chipset.4000mAh massive battery.50MP primary camera. 16GB+120GB storage.90Hz refresh rate.",
+        "location": "Rangpur",
+        "price": " 80,999",
+        "price2": "50,000",
+        "year": "1",
+        "time": "1june,2022",
+        "sellername": "Kayum"
+      },
+      {
+        "name": "Apple iphone",
+        "img": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "about": "iOS software version. 6000mAh massive battery. 16GB+120GB storage.90Hz refresh rate.",
+        "location": "Lalmonirhat",
+        "price": " 50,999",
+        "price2": "35,000",
+        "year": "3",
+        "time": "2january,2022",
+        "sellername": "Kalam"
+      },
+      {
+        "name": "Sampony",
+        "img": "https://images.unsplash.com/photo-1603791239531-1dda55e194a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "about": "iOS software version. 5000mAh massive battery. 16GB+120GB storage.90Hz refresh rate.",
+        "location": "Dhaka",
+        "price": " 25,999",
+        "price2": "15000",
+        "year": "2",
+        "time": "5 may,2022",
+        "sellername": "Rahim"
+      }
+    ]
+  },
+
+  {
+    "name": "Headphone Collection",
+    "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aGVhZHBob25lfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+    "about": "All brands mobile headphone will get here",
+    "category": [
+      {
+        "name": "A4TECH Bloody MR710 Wireless RGB Gaming Headphone",
+        "img": "https://www.startech.com.bd/image/cache/catalog/headphone/a4tech/bloody-mr710/bloody-mr710-01-500x500.webp",
+        "about": "Model: Bloody MR710. Built-in 1200mAh Lithium Battery.Headphone Frequency: 20Hz-20KHz.2.4GHz Wireless and Bluetooth v5.0.50mm M.O.C.I. Hybrid Diaphragm Technology.",
+        "location": "Rangpur",
+        "price": " 6,500",
+        "price2": "3,000",
+        "year": "1",
+        "time": "1june,2022",
+        "sellername": "Kayum"
+      },
+      {
+        "name": "Logitech H151 STEREO Headset (One port)",
+        "img": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h151/h151-001-500x500.jpg",
+        "about": "Model: Logitech H151.Frequency: 20Hz - 20kHz.Sensitivity: 122dB +/-3dB.Cable Length: 5.90 ft",
+        "location": "Rajshahi",
+        "price": "1,500",
+        "price2": "1200",
+        "year": "3",
+        "time": "1june,2022",
+        "sellername": "Kayum"
+      },
+      {
+        "name": "Fantech AC3001 Tower Headphone Stand",
+        "img": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/fantech/headphone-stand/ac3001/ac3001-500x500.jpg",
+        "about": "Model: AC3001.Anti Slip Design Rubberized Base.Added Weights Inside for Balance Stabilization.Durable Triangular Base.Detachable Body",
+        "location": "Dhaka",
+        "price": " 600",
+        "price2": "500",
+        "year": "1",
+        "time": "5 April,2022",
+        "sellername": "Salam"
+      }
+    ]
+  },
+  {
+    "name": "Sound Speeker Collection",
+    "img": "https://t3.ftcdn.net/jpg/01/34/14/20/360_F_134142098_35jEUodu2IkWtppO53abj0KYijvnvCNo.jpg",
+    "about": "All brands and qualitiful speaker will get here",
+    "category": [
+      {
+        "name": "Logitech Surround Sound Z623 2:1 Speaker",
+        "img": "https://www.startech.com.bd/image/cache/catalog/Speaker/Logitech%20Surround%20Sound%20Z623-500x500.jpg",
+        "about": "MPN: 980-000403. Model: Logitech Z623.THX CERTIFIED AUDIO 400 WATTS OF POWERFUL SOUND CONTROLS AT YOUR FINGERTIPS",
+        "location": "Rangpur",
+        "price": " 15,000",
+        "price2": "10,000",
+        "year": "1",
+        "time": "1june,2020",
+        "sellername": "Kayum"
+      },
+      {
+        "name": "Havit HV-SK473 USB 2.0 Speaker",
+        "img": "https://www.startech.com.bd/image/cache/catalog/speaker/havit/hv-sk473/hv-sk473-1-500x500.jpg",
+        "about": "Model: Havit HV-SK473.Frequency: 90 HZ-20KHZ.Impedance : 4.Power Output : 3W*2 Power Input: 5v (USB)",
+        "location": "Rajshahi",
+        "price": "1500",
+        "price2": "1200",
+        "year": "1",
+        "time": "10 December,2022",
+        "sellername": "Rabbi"
+      },
+      {
+        "name": "Havit SK201 RGB Stereo Gaming USB Speaker",
+        "img": "https://www.startech.com.bd/image/cache/catalog/accessories/headset/fantech/headphone-stand/ac3001/ac3001-500x500.jpg",
+        "about": "Model: SK201.2.0 electronic sports speakers Output power: 3Wx2 (RMS)  Driver Size: 2.5inch x2  3.5MM stereo audio input",
+        "location": "Dhaka",
+        "price": " 1100",
+        "price2": "800",
+        "year": "1",
+        "time": "1june,2022",
+        "sellername": "Salma"
+      }
+    ]
+  }
+]
